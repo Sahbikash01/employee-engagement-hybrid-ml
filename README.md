@@ -106,4 +106,25 @@ There is a need for a **data-driven, scalable, and intelligent system** that can
 ---
 
 ## Project Structure
-
+```
+employee-engagement-hybrid-ml/
+│
+├── data/
+│   └── synthetic_employee_data.csv      # Generated employee dataset (optional)
+│
+├── src/
+│   ├── employee_engagement.py            # Main ML pipeline & prediction script
+│   ├── preprocessing.py                 # Data preprocessing & feature scaling
+│   ├── model_training.py                # Random Forest, XGBoost & Hybrid models
+│   └── evaluation.py                    # Model evaluation & metrics
+│
+├── results/
+│   ├── confusion_matrix.png              # Confusion matrix visualization
+│   ├── roc_curve.png                     # ROC curve comparison
+│   ├── accuracy_comparison.png           # Model accuracy bar plot
+│   └── feature_importance.png            # Feature importance plot
+│
+├── requirements.txt                      # Project dependencies
+├── README.md                             # Project documentation
+└── .gitignore                            # Ignored files & folders
+```
