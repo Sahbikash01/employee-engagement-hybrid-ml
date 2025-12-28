@@ -29,7 +29,7 @@ A machine learning–based employee engagement prediction system using a hybrid 
 - [Future Work](#future-work)
 - [Conclusion](#conclusion)
 - [Team Members](#team-members)
-- [Author & Contact](#author--contact)
+
 
 ---
 
