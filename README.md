@@ -377,6 +377,9 @@ pip install -r requirements.txt
 python employee_engagement.py
 -4️⃣ Enter Employee Details:
 Follow on-screen prompts for prediction.
+
+---
+
 ##  Limitations
 
 - Uses synthetic data  
