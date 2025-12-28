@@ -248,6 +248,23 @@ These visual insights improve **interpretability and trust**.
 
 ## How to Run This Project
 
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/employee-engagement-hybrid-ml.git
+   cd employee-engagement-hybrid-ml
+   
+2.Install required libraries
+pip install pandas numpy scikit-learn xgboost imbalanced-learn matplotlib seaborn
+
+3.Run the Python script
+python employee_engagement.py
+
+4.Provide employee input
+Enter employee details in the terminal when prompted.
+
+5.View the output
+The system displays engagement prediction (High/Low), model accuracy, and visualizations.
+
 ---
 
 ## System Architecture
@@ -366,17 +383,7 @@ These visual insights improve **interpretability and trust**.
 ---
 
 ## How to Run This Project
--1️.Clone the Repository
-```bash
-git clone https://github.com/your-username/employee-engagement-hybrid-ml.git
-```
--2️.Install Dependencies :
-```pip install -r requirements.txt
-```
--3️.Run the Project :
-```python employee_engagement.py```
--4️.Enter Employee Details:
-Follow on-screen prompts for prediction.
+
 
 ##  Limitations
 
