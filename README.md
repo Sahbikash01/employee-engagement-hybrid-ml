@@ -371,9 +371,12 @@ These visual insights improve **interpretability and trust**.
 ```bash
 git clone https://github.com/your-username/employee-engagement-hybrid-ml.git
 ```
--2️⃣ Install Dependencies :pip install -r requirements.txt 
--3️⃣ Run the Project :python employee_engagement.py
--4️⃣ Enter Employee Details:Follow on-screen prompts for prediction.
+-2️⃣ Install Dependencies :
+pip install -r requirements.txt 
+-3️⃣ Run the Project :
+python employee_engagement.py
+-4️⃣ Enter Employee Details:
+Follow on-screen prompts for prediction.
 ##  Limitations
 
 - Uses synthetic data  
