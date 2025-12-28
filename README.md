@@ -367,15 +367,15 @@ These visual insights improve **interpretability and trust**.
 
 ## How to Run This Project
 
--1️⃣ Clone the Repository
+-1️.Clone the Repository
 ```bash
 git clone https://github.com/your-username/employee-engagement-hybrid-ml.git
 ```
--2️⃣ Install Dependencies :
+-2️.Install Dependencies :
 pip install -r requirements.txt 
--3️⃣ Run the Project :
+-3️.Run the Project :
 python employee_engagement.py
--4️⃣ Enter Employee Details:
+-4️.Enter Employee Details:
 Follow on-screen prompts for prediction.
 
 ---
