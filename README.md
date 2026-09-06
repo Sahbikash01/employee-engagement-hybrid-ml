@@ -411,9 +411,9 @@ It provides both **predictive insights** and **actionable recommendations**, mak
 ---
 
 ##  Team Members
-- **Abdur Johir Alom** – Model Training
+- **Abdur Johir Alom** – Model Training & Hybrid Model Design 
 - **Sowbhagya Laxmi Das** – Data Preprocessing  
-- **Bikash Sah**– Machine Learning & Hybrid Model Design  
+- **Bikash Sah**– Machine Learning , GitHub & Version Control 
 - **Anshu Kumar** – Visualization & Evaluation  
 - **Aditiya Raaj Singh** – Documentation  
 - **MD Atiquir Rahman** – Testing & Validation  
